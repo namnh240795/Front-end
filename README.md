@@ -3,11 +3,11 @@
 ##_Instruction_:
 
 1. Create your SSH key: 
-  1. Open git bash
-  1. ssh-keygen -t rsa -b 4096 -C "<your email>"
-  1. access to C:\Users\<your user name>\.ssh
-  1. use nodepad to open file: id_rsa.pub
-  1. copy that key and paste to your github account SSH keys in the Persional Settings/ SSH and GPG keys.
+  * Open git bash
+  * ssh-keygen -t rsa -b 4096 -C "<your email>"
+  * access to C:\Users\<your user name>\.ssh
+  * use nodepad to open file: id_rsa.pub
+  * copy that key and paste to your github account SSH keys in the Persional Settings/ SSH and GPG keys.
 2. Clone this project to your computer use
   git clone git@github.com:namnh240795/Front-end.git
 3. Create your own branches use
