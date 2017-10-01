@@ -26,6 +26,6 @@
 
   __We will start with front-end immediately. Try to work with commandline instead of using GUI tool.__
 
-# Front-end Instruction
+# Front-end Instruction [Click Here](FrontEnd.md)
 
-[a relative link](FrontEnd.md)
+
