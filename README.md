@@ -1,6 +1,6 @@
-##_Initial project for 2 cute girls_
+### _Initial project for 2 cute girls_
 
-##_Instruction_:
+### _Instruction_:
 
 1. Create your SSH key: 
   * Open git bash
@@ -8,18 +8,21 @@
   * access to _C:\Users\<your user name>\.ssh_
   * use nodepad to open file: _id_rsa.pub_
   * copy that key and paste to your github account SSH keys in the _Persional Settings/ SSH and GPG keys_.
+
 2. Clone this project to your computer use
 
-  _git clone git@github.com:namnh240795/Front-end.git_
+  * _git clone git@github.com:namnh240795/Front-end.git_
+
 3. Create your own branches use
 
-  _git checkout -b <your branch name>_
+  * _git checkout -b <your branch name>_
+
 4. Try to do something like add new file to your branch then push it to this repository use:
 
-  _git push origin <your branch name>_
+  * _git push origin <your branch name>_
 
 
-#_Note_
+### _Note_
 
   __We will start with front-end immediately. Try to work with commandline instead of using GUI tool.__
 
