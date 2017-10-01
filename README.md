@@ -4,19 +4,23 @@
 
 1. Create your SSH key: 
   * Open git bash
-  * ssh-keygen -t rsa -b 4096 -C "<your email>"
-  * access to C:\Users\<your user name>\.ssh
-  * use nodepad to open file: id_rsa.pub
-  * copy that key and paste to your github account SSH keys in the Persional Settings/ SSH and GPG keys.
+  * _ssh-keygen -t rsa -b 4096 -C "<your email>"_
+  * access to _C:\Users\<your user name>\.ssh_
+  * use nodepad to open file: _id_rsa.pub_
+  * copy that key and paste to your github account SSH keys in the _Persional Settings/ SSH and GPG keys_.
 2. Clone this project to your computer use
-  git clone git@github.com:namnh240795/Front-end.git
+
+  _git clone git@github.com:namnh240795/Front-end.git_
 3. Create your own branches use
-  git checkout -b <your branch name>
+
+  _git checkout -b <your branch name>_
 4. Try to do something like add new file to your branch then push it to this repository use:
-  git push origin <your branch name>
+
+  _git push origin <your branch name>_
 
 
-#Note
-  We will start with front-end immediately. Try to work with commandline instead of using GUI tool.
+#_Note_
+
+  __We will start with front-end immediately. Try to work with commandline instead of using GUI tool.__
 
 
